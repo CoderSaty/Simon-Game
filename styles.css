@@ -4,7 +4,6 @@ body {
   background-color: #011f3f;
   font-family: "Roboto", "cursive", sans-serif;
 }
-
 .level {
   margin-top: 3rem;
   font-size: 3rem;
@@ -80,17 +79,17 @@ body {
   transition: 1s;
 }
 .social-links a i:hover {
-  background: #fff;
+  background: #e94560;
 }
-.bottom center {
+.bottom .center {
   margin-top: 1rem;
   padding: 5px;
   font-size: 1rem;
 }
-.bottom center span {
+.bottom .center span {
   color: #fff;
 }
-.bottom center a {
+.bottom .center a {
   color: #e94560;
   text-decoration: none;
 }
@@ -99,4 +98,10 @@ body {
 }
 .visibility {
   display: none;
+}
+.info a{
+  color:#e94560;
+}
+.info-link:hover{
+  color:#FFF;
 }
