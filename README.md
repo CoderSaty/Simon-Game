@@ -19,7 +19,6 @@
 - [Technologies Used](#technologies)
 - [References](#references)
 - [License](#license)
-- [ToDos](#To-Dos)
 - [Related Projects](#related-projects)
 - [Support](#support)
 - [Author Info](#author-info)
@@ -68,17 +67,10 @@ Copyright (c) 2021 @[codersaty](http://codersaty.me)
 
 <br/>
 
-# To Dos
-
-> Thinking About it.
-
-
-<br/>
-
 # Related Projects
 
 
-> I will add the projects soon.
+- Level Zero Portfolio [Live Demo](https://codersaty.netlify.app/) [Github](https://github.com/CoderSaty/LevelZeroPortfolio)
 
 
 <br/>
@@ -93,7 +85,7 @@ In case of any problem/ query, feel free to do pull requests or contact the auth
 # Author Info
 
 - Twitter - [@codersaty](https://twitter.com/codersaty)
-- Website - [Anuranjan Srivastava](http://codersaty.me)
+- Website - [Anuranjan Srivastava](https://codersaty.github.io/Portfolio/)
 - Linkedin - [codersaty](https://www.linkedin.com/in/codersaty)
 
 <br/>
